@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for kunalsad on 2026-11-16T02:35:34Z
+# fly.toml app configuration file generated for kunalsad-qpyomq on 2026-11-16T09:47:05Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'kunalsad'
+app = 'kunalsad-qpyomq'
 primary_region = 'ams'
 
 [build]
